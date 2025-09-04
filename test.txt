@@ -1,3 +1,4 @@
 Just a quick test for a commit.
 and then another change, which we'll commit before making ...
 the content for the third commit!
+Finally, stuff for the fourth commit, and after this we're going to push from local to remote.
